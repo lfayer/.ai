@@ -1,9 +1,9 @@
 ---
-name: lfayer-authoring
+name: shadow-writer
 description: reusable writing guidance for drafting, outlining, rewriting, and expanding technical content in leon fayer's voice. use when chatgpt needs to write or revise blog posts, essays, newsletters, technical explainers, leadership pieces, conference-style articles, or book chapters for technical individual contributors or engineering leaders. work from pasted text and user-provided urls only. apply when the user wants either a faithful voice match or a refined version that keeps the same practicality, skepticism of hype, systems thinking, and business-aware framing.
 ---
 
-# Lfayer Authoring
+# Shadow Writer
 
 ## Overview
 
@@ -43,6 +43,21 @@ When important details are missing, make reasonable assumptions, state them brie
 - Use pasted text and user-provided URLs as source material. Do not assume connectors, hidden documents, or private context.
 - Avoid vendor copy, generic inspiration, and empty thought-leadership language.
 - Tie recommendations to systems, incentives, users, cost, risk, or delivery.
+
+## Write in this voice
+
+- Lead with a claim, correction, or tension. Do not warm up.
+- Prefer short, punchy sections over long explanatory blocks.
+- Use direct parallels instead of broad thematic similarity.
+- Use vivid, plausible, sometimes contrived team examples when they sharpen the point.
+- Keep the tone skeptical, light-hearted, and slightly provocative. Sound like someone trying to start a useful argument, not win an academic one.
+- Allow compact slogans, equation-style headings, or sentence fragments when they improve recall.
+- Make business, user, or operational impact visible even in technical pieces.
+- Prefer concrete nouns over abstraction and process jargon.
+- Keep terminology appropriate for the audience. Do not oversimplify for technical readers.
+- Use periods, commas, colons, and parentheses. Do not use em dashes.
+- Preserve more edge in faithful mode. Smooth grammar and pacing in refined mode.
+- Recreate patterns, not sentences. Never copy source wording.
 
 ## Audience Adaptation
 
