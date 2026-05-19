@@ -78,19 +78,6 @@ LOOKBACK_WINDOW:
 # contain no clear action language. Mark them with a "(VIP)" label in the review list.
 
 VIPS:
-  - Mike Derezin (CEO)
-  - Denis Khazan (CTO)
-  - Scott Balwinski (COO)
-  - Matt Harsh-Strong (CFO)
-  - Celia Stokes (Chief Product Officer)
-  - Jonathan Lister (Chief Growth Officer)
-  - Thomas Yamamoto (General Counsel)
-  - Matt Merry (Chief of Staff)
-  - May Reid (Chief People Officer)
-  - Nicole Russell (Chief Academic Officer)
-  - Breeyn Mack (Senior Vice President of Education)
-  - Jonah Stuart (Chief Policy & Government Relations Officer)
-  - Kevin Roden (Vice President, Public Sales)
   - [Add additional VIPs here — use name and title]
 
 # --- FILTERS ---
