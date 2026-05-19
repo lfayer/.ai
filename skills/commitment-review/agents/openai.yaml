@@ -1,0 +1,21 @@
+interface:
+  display_name: commitment review
+  short_description: Run a daily commitment review workflow. Use this skill whenever
+    the user says 'start my commitment review', 'run my commitment review', 'check
+    my tasks from today', 'what did I commit to today', 'let's review the commitments
+    I made today', 'let's review tasks from yesterday', 'let's check what commitments
+    I made on [date]', or any similar phrase indicating they want to review recent
+    messages for tasks and commitments. This skill orchestrates a multi-source search
+    across configured sources (Slack, Outlook, and/or Zoom), identifies tasks and
+    commitments, and manages creation of confirmed tasks in the user's Asana project.
+    Always use this skill for the full end-to-end workflow rather than attempting
+    it ad hoc.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
